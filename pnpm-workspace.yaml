@@ -1,0 +1,6 @@
+ignoredBuiltDependencies:
+  - core-js
+  - nodemon
+
+onlyBuiltDependencies:
+  - sqlite3
